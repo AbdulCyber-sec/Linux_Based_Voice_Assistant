@@ -1,0 +1,9 @@
+requests
+gTTS
+playsound
+psutil
+pyautogui
+pynput
+scikit-learn
+SpeechRecognition
+Pillow
